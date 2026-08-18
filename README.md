@@ -29,6 +29,10 @@ Geographical Distribution of Customers and Costs
 
 Interactive dashboard created using Power BI to visualize and analyze cost performance across different business dimensions.
 
+## 📊 Dashboard Preview
+
+![Cost Analysis Dashboard](https://github.com/mohamedhassan63364-rgb/Power-BI-Cost-Analysis-Dashboard/blob/main/Screenshot%202026-08-15%20010042.png)
+
 📂 Project Files
 
 This repository includes:
